@@ -17,7 +17,7 @@
 NICE
 */
 
-const { io } = require('../server');
+const { io } = require('../models/server');
 
 const { UsuarioSocket } = require('./UsuarioSocket')
 const Usuario = new UsuarioSocket();

@@ -1,4 +1,4 @@
-const { io } = require('../server');
+//const { io } = require('../server');
 
 const { DBUsuario } = require('../DBConnection/DBUsuario')
 const Usuario = new DBUsuario();
